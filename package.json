@@ -41,7 +41,7 @@
   "author": "Clove Twilight",
   "license": "MIT",
   "dependencies": {
-    "better-sqlite3": "^11.8.1",
+    "better-sqlite3": "^12.4.1",
     "cookie-parser": "^1.4.7",
     "discord.js": "^14.17.3",
     "dotenv": "^17.2.3",
