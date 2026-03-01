@@ -1,0 +1,8 @@
+# Default owner
+* @doughmination
+
+# Workflows
+.github/workflows/* @doughmination
+
+# Docs
+docs/* @doughmination

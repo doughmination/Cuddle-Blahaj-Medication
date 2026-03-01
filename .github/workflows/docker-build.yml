@@ -1,10 +1,6 @@
 name: Build Medication System
 
 on:
-    push:
-        branches: [main]
-        paths:
-            - "src/**"
     workflow_dispatch:
 
 jobs:
