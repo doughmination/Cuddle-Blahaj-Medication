@@ -59,13 +59,22 @@ Requests for commercial licensing must be made via email to:
 
 Commercial licence terms may include fees, revenue-sharing arrangements, usage limitations, or other conditions, and are granted solely at the discretion of Clove Nytrix Doughmination Twilight.
 
+---
+
 ### 4.2 Pre-Authorised Commercial Licensees
 
-Clove Nytrix Doughmination Twilight may maintain a file named **allowed_people.md** listing individuals or organisations that have been granted permission to use the Software commercially.
+Clove Nytrix Doughmination Twilight may grant commercial licences to specific individuals or organisations through written authorisation.
 
-If **allowed_people.md** is present and lists a party, that listing constitutes evidence of an active commercial licence, subject to any terms specified therein.
+Records of such authorisations may be maintained within an official **LICENCING repository** or other designated licensing directory maintained by Clove Nytrix Doughmination Twilight.
 
-If **allowed_people.md** does **not** exist, or if a party is not listed within it, **no commercial licence is granted**, and commercial use remains prohibited.
+Where a party is explicitly identified within that repository or directory as having been granted commercial rights, that record constitutes evidence of an active commercial licence, subject to any terms specified in the relevant document.
+
+If a party is **not** listed within the official licensing repository or accompanying authorisation documents, **no commercial licence is granted**, and commercial use of the Software remains prohibited.
+
+> The official LICENCING repository is maintained by Clove Nytrix Doughmination Twilight and may be referenced within project documentation or licence notices.
+
+Official licensing records:
+https://github.com/doughmination/licencing
 
 ---
 
